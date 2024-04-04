@@ -1,18 +1,19 @@
 # AI Chatbot for E-commerce Product Website
 This project is an AI chatbot developed using Python, Flask, PostgreSQL, OpenAI API, and speech recognition libraries. The chatbot assists users in an e-commerce setting, specifically for products.
 ## Features
-* Voice and Text Interaction: Users can interact with the chatbot using both voice commands and text inputs.
-* Product Recommendations: The chatbot provides personalized product recommendations based on user queries and preferences.
-* Checkout Assistance: It assists users with the checkout process, including providing shipping information and payment details.
-* Data Analysis: The chatbot analyzes data from a PostgreSQL database to answer user queries and provide insights.
+*Voice and Text Interaction:** Users can interact with the chatbot using both voice commands and text inputs.
+**Product Recommendations:** The chatbot provides personalized product recommendations based on user queries and preferences.
+**Checkout Assistance:** It assists users with the checkout process, including providing shipping information and payment details.
+**Data Analysis:** The chatbot analyzes data from a PostgreSQL database to answer user queries and provide insights.
 ## Project Structure
-- database_data.json: JSON file containing product details retrieved from the PostgreSQL database.
-- env.example: Example environment file containing placeholders for sensitive information.
-- app.py: Main Flask application file containing the chatbot logic and routes.
-- database.py: Create database_data.json file
-- requirements.txt: File listing all dependencies required to run the project.
+- 'database_data.json': JSON file containing product details retrieved from the PostgreSQL database.
+- 'env.example': Example environment file containing placeholders for sensitive information.
+- 'app.py': Main Flask application file containing the chatbot logic and routes.
+- 'database.py': Create database_data.json file
+- 'requirements.txt': File listing all dependencies required to run the project.
 ##Setup Instructions
-1. Clone the repository to your local machine:
+1. **Clone the repository to your local machine**:
+'''bash
 git clone https://github.com/sona3ms/Website_chatbot.git
 2. Install dependencies:
 pip install -r requirements.txt
