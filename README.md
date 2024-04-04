@@ -17,7 +17,7 @@ git clone https://github.com/sona3ms/Website_chatbot.git
 2. Install dependencies:
 pip install -r requirements.txt
 3. Create a .env file with your environment variables:
-OPENAI_API_KEY=your_openai_key_here
+'''OPENAI_API_KEY=your_openai_key_here
 DB_NAME=your_database_name
 DB_USER=your_database_username
 DB_PASSWORD=your_database_password
