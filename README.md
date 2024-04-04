@@ -12,7 +12,7 @@ This project is an AI chatbot developed using Python, Flask, PostgreSQL, OpenAI 
 - 'database.py': Create database_data.json file
 - 'requirements.txt': File listing all dependencies required to run the project.
   
-##Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository to your local machine**:
 '''bash
